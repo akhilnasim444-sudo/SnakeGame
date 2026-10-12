@@ -20,21 +20,6 @@ Java Timer – Controls the snake's movement.
 📋 Requirements
 Java Development Kit (JDK) 8 or later.
 A Java-compatible IDE, such as IntelliJ IDEA, Eclipse, or VS Code, or a terminal.
-🚀 How to Run
-1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-
-
-Replace YOUR-USERNAME and YOUR-REPOSITORY with your GitHub username and repository name.
-
-2. Navigate to the project folder
-cd YOUR-REPOSITORY
-
-3. Compile the program
-javac SnakeGame.java
-
-4. Run the game
-java SnakeGame
 
 
 The game window will open, and you can start playing!
@@ -78,8 +63,8 @@ This project is available under the MIT License. You can add a LICENSE file to t
 👨‍💻 Author
 
 Your Name
+Akhil Nasim
 
-GitHub: @YOUR-USERNAME
 
 ⭐ If you like this project, consider giving the repository a star on GitHub!
 
